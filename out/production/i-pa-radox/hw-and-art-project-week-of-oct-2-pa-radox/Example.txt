@@ -1,0 +1,1 @@
+You might create a text file for your answers to non-coding problems. For example, your answers to self-check problems will likely be a .txt or .docx file.
