@@ -4,7 +4,7 @@ public class CountDown {
         for(int i=100;i>0;i--){
             sum+=i;
             System.out.println(i);
+            System.out.println(sum);
         }
-        System.out.println(sum);
     }
 }
