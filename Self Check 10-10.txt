@@ -1,0 +1,31 @@
+19.
+a. 13
+b. a
+c. G
+d. 2
+e. GANDALF THE GRAY
+f. -1
+g. o Baggins
+h. do Baggins
+i. Goondoolf the GRAY
+j. Gandalf the GRAY
+k. "strange1"
+
+20.
+a. 6
+b. 19
+c. q.e.d.
+d. ARCTURAN MEGADONKEY
+e. E.
+f. Mega
+g. 4
+h. 1
+i. 14
+j. -1
+k. Arcturan Megadonkeyc
+l. b
+m. Cyber
+n. mega Corp
+
+21. quote.substring(5,10).toUpperCase()
+quote.substring(0,4).toLowerCase() + quote.substring(20,26)
