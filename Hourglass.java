@@ -44,6 +44,6 @@ public class Hourglass {
         System.out.println("|");
     }
     public static void main(String[] args) throws InterruptedException {
-        print_hourglass(9);
+        print_hourglass(9); // size must be odd or else bad things happen
     }
 }
